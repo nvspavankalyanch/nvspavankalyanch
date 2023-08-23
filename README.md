@@ -7,11 +7,11 @@
 	<a href="https://nvspavankalyanch.netlify.app">Portfolio</a></p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nvspavankalyanch&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nvspavankalyanch&show_icons=true&theme=radical"/> 
   <br />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=nvspavankalyanch&theme=Javascript-dark"/>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvspavankalyanch&layout=compact&theme=vision-friendly-dark"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nvspavankalyanch&layout=compact&theme=vision-friendly-dark"/>
 </div>
 
 
