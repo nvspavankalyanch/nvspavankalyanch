@@ -5,7 +5,8 @@
 	A Passionate Frontend Developer.
 <br>
 	<a href="https://nvspavankalyanch.netlify.app">Portfolio</a></p>
-
+<p align="center"><a  href="https://github.com/nvspavankalyanch/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=nvspavankalyanch&style=for-the-badge"></a></p>
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nvspavankalyanch&show_icons=true&theme=radical"/> 
   <br />
@@ -42,10 +43,4 @@
 </div>
 <br />
 
-<table align='center'>
-  <tr>
-    <td>You are visitor</td>
-    <td ><img src="https://profile-counter.glitch.me/nvspavankalyanch/count.svg" alt="" /></td>
-  </tr>
-</table>
 
