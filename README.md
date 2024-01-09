@@ -16,11 +16,15 @@
 </div>
 
 
-
-
 <strong><h3 align="center"> 🌟 GitHub Trophies </h3></strong>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nvspavankalyanch&title=Issues,Followers,PullRequest,MultipleLang,Commit&theme=onedark&no-bg=true&no-frame=true" alt="nvspavankalyanch" /></a> </p>
 <hr />
+
+<div align="center">
+<h1 align='center'> Jokes Card</h1>
+<img src="https://readme-jokes.vercel.app/api?theme=default"/>
+</div>
+
 
 <h3 align="center">Connect with me 📫</h3>
 
