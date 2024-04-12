@@ -47,4 +47,6 @@
 </div>
 <br />
 
-
+<p align="center">
+ <img width="1000" src="assets/SnakeGithub.svg" alt="snake"/>
+</p>
