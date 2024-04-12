@@ -6,7 +6,7 @@
 <br>
 	<a href="https://nvspavankalyanch.netlify.app">Portfolio</a></p>
 <p align="center"><a  href="https://github.com/nvspavankalyanch/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=nvspavankalyanch&style=for-the-badge"></a></p>
+    <img src="https://komarev.com/ghpvc/?username=nvspavankalyanch&style=for-the-badge&color=orange" alt=""/></a></p>
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nvspavankalyanch&show_icons=true&theme=radical"/> 
   <br />
